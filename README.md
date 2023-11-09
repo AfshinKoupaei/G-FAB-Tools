@@ -28,4 +28,4 @@ param=rs.CurveClosestPoint(curveID,pointB)
 rs.CurveSeam(curveID,param))</code></p>
 </ol>
 <p> Watch the following video on my Youtube channel for more information and if you have problems installing or employing the toolbar.</p>
-
+https://www.youtube.com/watch?v=_LtWjoDqofg
